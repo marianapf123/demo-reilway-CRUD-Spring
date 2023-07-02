@@ -1,0 +1,6 @@
+com\practicaswrest\service\EmpleadoService.class
+com\practicaswrest\entity\Empleado.class
+com\practicaswrest\controller\EmpleadoController.class
+com\practicaswrest\controller\NasaSWController.class
+com\practicaswrest\PracticaswrestApplication.class
+com\practicaswrest\repo\EmpleadoRepo.class
