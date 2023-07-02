@@ -72,4 +72,9 @@ public class EmpleadoController {
     public String createUser() {
       return  empleadoservice.createUser();
     }
+    
+    @GetMapping("/hola-mundo")
+    public String holaMundo(){
+        return "Hola Mundo";
+    }
 }
